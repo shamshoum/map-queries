@@ -4,9 +4,13 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
+    "css",
+    "media",
+    "query",
+    "@media"
   ],
   "activationCommands": {
-    "atom-workspace": "map-queries:toggle"
+    "atom-workspace": "map-queries:map"
   },
   "repository": "https://github.com/shamshoum/map-query",
   "license": "MIT",

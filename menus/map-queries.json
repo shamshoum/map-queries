@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle map-queries",
-        "command": "map-queries:toggle"
+        "command": "map-queries:map"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "map-queries:toggle"
+              "command": "map-queries:map"
             }
           ]
         }
