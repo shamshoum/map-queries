@@ -1,7 +1,7 @@
 {
   "name": "map-queries",
   "main": "./lib/map-queries",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "This is a little plugin for atom that maps media queries inside css files.",
   "keywords": [
     "css",
