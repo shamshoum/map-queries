@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle map-queries",
+        "command": "map-queries:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "map-queries",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "map-queries:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
