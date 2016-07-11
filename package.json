@@ -1,8 +1,8 @@
 {
   "name": "map-queries",
   "main": "./lib/map-queries",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "This is a little plugin for atom that maps media queries inside css files.",
   "keywords": [
     "css",
     "media",
@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "map-queries:map"
   },
-  "repository": "https://github.com/shamshoum/map-query",
+  "repository": "https://github.com/shamshoum/map-queries",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
