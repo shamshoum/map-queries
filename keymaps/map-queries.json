@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "map-queries:map"
+    "ctrl-alt-o": "map-queries:map",
+    "escape" : "map-queries:toggle"
   }
 }
